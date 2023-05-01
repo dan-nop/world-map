@@ -1,4 +1,4 @@
-import { Component, Inject, ChangeDetectorRef, OnInit, AfterContentChecked, AfterContentInit } from '@angular/core';
+import { Component, Inject, AfterContentInit } from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 import { WbApiService } from '../services/wb-api.service';
 
